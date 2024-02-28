@@ -2,7 +2,7 @@
 
 Welcome to the Sorting Algorithm Visualizer! I have designed this web application to provide a dynamic visual representation of classic sorting algorithms, including Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort.
 
-**Live Demo:** [Sorting Visualizer](https:///) 
+**Live Demo:** [Sorting Visualizer](https://sortingvisualizerbyfeza.netlify.app/) 
 
 ## Purpose
 
